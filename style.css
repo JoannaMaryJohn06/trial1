@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* background-color: rgb(168, 217, 158); */
+    background-image: url(/images/steak1nn.jpg);
+    padding-top: 20px;
+    background-size: cover;
+}
+
+header{
+    height: 118px;
+    width: 1024px;
+    /* background-color: rgba(247, 229, 195, 0.771); */
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    height: 40px;
+    width: 1024px;
+    background-color: rgba(151, 122, 65, 0.522);
+}
+
+main{
+    height: 400px;
+    width: 1024px;
+    /* background-color: rgb(210, 159, 48); */
+}
+
+footer{
+    text-align: center;
+    font-size: smaller;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* height: 100px; */
+    width: 1024px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgba(57, 44, 8, 0.788);
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+/* .central{ */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* display: block; */
+
+/* } */
+
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family: 'Bebas Neue', cursive;;
+    text-align: center;
+    padding-top: 50px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(247, 180, 55) ;
+    font-family: 'Poppins', sans-serif;
+}
+
+h5{
+    text-align: center;
+    font-size: larger;
+    padding-top: 50px;
+    color: rgb(247, 180, 55);
+    font-family: 'Poppins', sans-serif;
+}
+
+
+nav a{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: lighter;
+}
+
+section{
+    text-align: center;
+    padding-bottom: 30px;
+}
